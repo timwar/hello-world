@@ -1,2 +1,3 @@
 # hello-world
-first repository
+
+What does this github do, and what is it about?
